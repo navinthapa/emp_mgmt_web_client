@@ -1,0 +1,14 @@
+{
+  "name": "emp_mgmt_mobile_client",
+  "version": "1.0.0",
+  "description": "Employee management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "html css client web"
+  },
+  "author": "tooropmgr@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
